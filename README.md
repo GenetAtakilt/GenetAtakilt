@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web3 
 - 👯 I’m looking to collaborate on open-source projects or interesting web development projects using JavaScript and its frameworks.
 - 🤔 I’m looking for help with optimizing performance in JavaScript applications.
-- 📫 How to reach me: You can reach me through https://t.me/selasye 
+- 📫 How to reach me: You can reach me through <a href="https://t.me/selasye" target="_blank">Telegram</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
